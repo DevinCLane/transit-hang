@@ -127,3 +127,9 @@
     filter: invert(1);
   }
 }
+
+
+.homeMap {
+  width: 80%;
+  height: 40rem;
+}
